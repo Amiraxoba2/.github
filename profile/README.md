@@ -10,4 +10,4 @@ We're making projects for education and having fun with code
 
 Metrics
 -
-![Metrics](../github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Amiraxoba2/.github/main/github-metrics.svg)
